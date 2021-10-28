@@ -19,4 +19,4 @@ As it is now, the plugins gather data from the MySQL databases and then create o
 
 ### Notes
 
-For PigTranslate, I want to create an array of LibreTranslate instances, PigUnify will take care of doing load balancing and redirect requests from the clients to unused LibreTranslaate instances.
+For PigTranslate, I want to create an array of LibreTranslate instances, PigUnify will take care of doing load balancing and redirect requests from the clients to unused LibreTranslate instances.
